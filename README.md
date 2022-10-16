@@ -1,12 +1,13 @@
+#Deskripsi Aplikasi
 📝🗒️📒
 sha merupakan aplikasi yang berisikan daftar untuk dilakukan hari itu. 
 Dengan daftar kegiatan kita akan dipermudah, 
 karena dapat melakukan sesuatu dalam kurun waktu tertentu.
 
-
+#Daftar Package
 Daftar package expo yang digunakan dalam aplikasi ini adalah "expo-checkbox": "~2.2.0" dan "expo-image-picker": "~13.3.1"
 
-
+#Cara Menginstal
 Untuk tahap menginstall aplikasi dalam taham pengembangan adalah:
 
 1. Pertama user menginstall aplikasi expo di playstore/app store
